@@ -1,0 +1,30 @@
+html{
+  scroll-behavior: smooth;
+  font-size: 40px;
+}
+p {
+  font-size: 0.8rem;
+  color: #0c0747d0;
+  text-indent: 5em;
+}
+.article{
+  font-size: 30px;
+}
+.highlight{
+  font-size: 50px;
+  color: red;
+}
+#bio{
+  font-weight: bold;
+}
+#legacy{
+  font-style: italic;
+  font-family: 'Oswald', sans-serif;
+}
+#music{
+  text-decoration: underline ;
+}
+#personal-life{
+  text-align: end;
+  cursor: pointer;
+}
